@@ -163,4 +163,7 @@
 	text-align: center;
 	font-size: 12px;
 	margin: 10px;
+}  #copyright a:hover {
+	color: #3498db;
+	text-decoration: none;
 }
